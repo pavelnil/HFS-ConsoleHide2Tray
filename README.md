@@ -17,7 +17,7 @@
 ## Key Features
 
 ### HFS Console Management
-* **Automatically hides the console** when the server starts.
+* **Automatically hides the console** when the app starts.
 * **Quick visibility toggle** via the tray icon:
   * Double left-click.
   * Context menu: "**Hide/Show HFS Console**".
